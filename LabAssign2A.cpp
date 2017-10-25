@@ -1,6 +1,6 @@
-/*Path Project: ~msguerri/C174-proj/MattLAssign2A.cpp
-Written by:  Matt Sguerri
-e-mail address:  mattsguerri@gmail.com
+/*Path Project: <redacted>
+Written by:  Esquire At Large
+e-mail address:  esquirecode@gmail.com
 C174 TTh 1:00 
 Date:  September 25th, 2007
 Assignment #2A
@@ -14,7 +14,7 @@ int main()
 {
 	//introduction
 	cout << "Assignment #2A \n"
-		<< "\tby:  Matt Sguerri \n"
+		<< "\tby:  Esquire At Large \n"
 		<< "\tdate: September 25th, 2007 \n"
 		<< "*******************************************\n\n";
 
@@ -41,7 +41,7 @@ int main()
 
 /*
 Assignment #2A
-        by:  Matt Sguerri
+        by:  Esquire At Large
         date: September 18th, 2007
 *******************************************
 
