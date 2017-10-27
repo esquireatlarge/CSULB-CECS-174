@@ -158,7 +158,7 @@ void display_totals(double earnings[], int employee_id[], int num_of_employee,in
 }
 /*
 Assignment #18
-        by:  Matt Sguerri
+        by:  Esquire At Large
         date: December 6th, 2007
 *******************************************
 
